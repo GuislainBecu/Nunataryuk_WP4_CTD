@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 .gitattributes
+files/.DS_Store
+src/.DS_Store
+res/.DS_Store
+.DS_Store
