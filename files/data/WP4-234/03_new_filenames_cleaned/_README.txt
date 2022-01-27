@@ -1,0 +1,1 @@
+These files are the same as in the directory "02_original_filenames_parsed_and_cleaned", according to the log found in "../src/filenames_change_log.csv".

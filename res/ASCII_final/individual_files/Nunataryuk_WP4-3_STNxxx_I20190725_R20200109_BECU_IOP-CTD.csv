@@ -1,0 +1,2 @@
+"filename [NA]","station [NA]","cruise_station [NA]","latitude [decimal degree]","longitude [decimal degree]","utc_date_time [yyyy-mm-dd hh:mm]","flag_qc","comment [NA]","depth [m]","temperature [C]","temperature_sdev [C]","temperature_surface_handheldmeter [C]","salinity [NA]","salinity_sdev [NA]","salinity_surface_handheldmeter [NA]"
+"Nunataryuk_WP4-3_STNxxx_I20190725_R20200109_BECU_IOP-CTD.csv","xxx","3_STNxxx",68.35713,-133.7384,"2019-07-25 18:00",0,NA,NA,NA,NA,NA,NA,NA,NA

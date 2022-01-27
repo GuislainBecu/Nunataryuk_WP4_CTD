@@ -1,0 +1,2 @@
+"filename [NA]","station [NA]","cruise_station [NA]","latitude [decimal degree]","longitude [decimal degree]","utc_date_time [yyyy-mm-dd hh:mm]","flag_qc","comment [NA]","depth [m]","temperature [C]","temperature_sdev [C]","temperature_surface_handheldmeter [C]","salinity [NA]","salinity_sdev [NA]","salinity_surface_handheldmeter [NA]"
+"Nunataryuk_WP4-1_STN540alt_I20190422_R20200109_BECU_IOP-CTD.csv","STN540alt","1_STN540alt",69.28916,-136.32489,"2019-04-22 21:25",0,NA,NA,NA,NA,0.1,NA,NA,0.18

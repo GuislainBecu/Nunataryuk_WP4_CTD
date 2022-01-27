@@ -1,0 +1,2 @@
+"filename [NA]","station [NA]","cruise_station [NA]","latitude [decimal degree]","longitude [decimal degree]","utc_date_time [yyyy-mm-dd hh:mm]","flag_qc","comment [NA]","depth [m]","temperature [C]","temperature_sdev [C]","temperature_surface_handheldmeter [C]","salinity [NA]","salinity_sdev [NA]","salinity_surface_handheldmeter [NA]"
+"Nunataryuk_WP4-1_STN150alt_I20190424_R20200109_BECU_IOP-CTD.csv","STN150alt","1_STN150alt",68.98647,-137.03941,"2019-04-24 19:52",0,"bad data (sensors stuck in ice)",NA,NA,NA,0.1,NA,NA,0.23

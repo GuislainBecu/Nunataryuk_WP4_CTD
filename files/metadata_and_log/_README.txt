@@ -1,0 +1,1 @@
+These log files are working one, the final "result" one is located in the "../res/ASCII_final/" directory.
